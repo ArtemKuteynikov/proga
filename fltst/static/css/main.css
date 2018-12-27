@@ -1,0 +1,15 @@
+#box {
+width: 700px; /* ширина блока*/
+height: 300px; /* высота блока*/
+border: 20px dotted black; /* рамка блока*/
+/*background-color: #ccc; /* фон блока*/
+padding:20px; /* отступы внутри блока*/
+}
+#section {
+width: 700px; /* ширина блока*/
+margin:20px 0; /* отступы от блока*/
+display: inline-table;
+/*padding:20px; /* отступы внутри блока*/
+/*border: 20px dotted black; /* рамка блока*/
+
+}
